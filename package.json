@@ -1,0 +1,15 @@
+{
+  "name": "inactive-users-emailer",
+  "version": "1.0.0",
+  "description": "Send emails to inactive Sportiner users",
+  "main": "inactive-users-emailer.js",
+  "scripts": {
+    "start": "node inactive-users-emailer.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
